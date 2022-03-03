@@ -1,5 +1,5 @@
 my script does not work :c
-  - correct it ❌😥🙅‍♂️👎
+  - make some changes ❌😥🙅‍♂️👎
   - run it again expecting a magical fix ✔🥵🔥👌
 <!---
 albcp2/albcp2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
